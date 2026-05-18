@@ -4,7 +4,7 @@ tools yg berfungsi untuk mengambil foto ktp dari sumber terbuka
 note : tools ini open source, jadi bisa klian kembangin lagi nanti
 
 ---
-![alt text](https://github.com/asta0x/acak-nomor/blob/main/images/main_menu.jpg?raw=true)
+![alt text](https://github.com/Tenkxzz/acak-ktp-lite/blob/main/foto.jpg)
 
 ---
 
